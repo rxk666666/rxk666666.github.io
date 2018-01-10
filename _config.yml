@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/rxk666666/rxk666666.github.io.git
-  branch: gh-pages
+  branch: master
